@@ -1,0 +1,21 @@
+# Sensitive files - never commit these
+*.ccache
+*.dmp
+*.hive
+*._hashes.txt
+*._tgs.txt
+domain_hashes*
+ws01_dump*
+ntds.dit
+SYSTEM.hive
+Administrator.ccache
+Users_Password.md
+
+# Payloads
+*.exe
+update_services*
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
