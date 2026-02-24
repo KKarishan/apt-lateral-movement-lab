@@ -202,7 +202,7 @@ Set-ADAccountPassword -Identity krbtgt \
 |------|-------|
 | Ticket File | Administrator.ccache |
 | Source IP | 192.168.0.103 |
-| Account Used | da_administra |
+| Account Used | da_admin |
 | Encryption | RC4 — weak encryption indicator |
 | Logon Type | 3 network logon from attacker IP |
 
