@@ -8,7 +8,7 @@
 
 ## Lab Network Topology
 
-![Proxmox Topology](../apt-lateral-movement-lab/screenshots/proxmox-topology.png)
+![Proxmox Topology](screenshots/proxmox-topology.png)
 
 ### Proxmox Host
 
@@ -25,7 +25,7 @@
 
 ## Active Directory Privilege Hierarchy
 
-![AD Privilege Hierarchy](../apt-lateral-movement-lab/screenshots/ad-privilege-hierarchy.png)
+![AD Privilege Hierarchy](screenshots/ad-privilege-hierarchy.png)
 
 
 1. Create OUs
@@ -77,13 +77,13 @@
 
 ## Full Attack Flow
 
-![Full Attack Flow](../apt-lateral-movement-lab/screenshots/full-attack-flow.png)
+![Full Attack Flow](screenshots/full-attack-flow.png)
 
 ---
 
 ## Logging & Detection Architecture
 
-![Log & detection Architecture](../apt-lateral-movement-lab/screenshots/log-detect-architecture.png)
+![Log & detection Architecture](screenshots/log-detect-architecture.png)
 
 ---
 
