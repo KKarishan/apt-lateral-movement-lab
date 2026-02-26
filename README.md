@@ -18,6 +18,9 @@ with Active Directory, Windows 10, and Kali Linux.
 
 ## Lab Overview
 
+![Lab Overview, Proxmox topology](screenshots/proxmox-topology.png) 
+
+
 ![Dashboard](screenshots/splunk-dashboard-overview.png) 
 
 ---
